@@ -1,5 +1,4 @@
-### Hello 👋
-### Welcome to my github page
+### Hello 👋 Welcome to my github page
 <p align="left">
 </p>
 
