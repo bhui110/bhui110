@@ -1,5 +1,8 @@
-<p align="center" font-size="50">
+
+<h2 align="center">
   Hello 👋 Welcome to my github page
+</h2>
+<p align="center" font-size="">
   <br><img src = "https://github.com/bhui110/bhui110/blob/main/galaga.png" width="300">
 </p>
 
