@@ -1,4 +1,4 @@
-<p align="center" font-size="25">
+<p align="center" font-size="50">
   Hello 👋 Welcome to my github page
   <br><img src = "https://github.com/bhui110/bhui110/blob/main/galaga.png" width="300">
 </p>
