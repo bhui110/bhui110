@@ -1,5 +1,5 @@
 ### Hi there 👋
-- ⚡ Fun fact **my cheese**
+![](https://github.com/bhui110/bhui110/blob/main/galaga.png)
 
 <p align="left">
 </p>
