@@ -1,6 +1,6 @@
-<p align="center" >
+<p align="center" font-size="25">
   Hello 👋 Welcome to my github page
-  <br><img src = "https://github.com/bhui110/bhui110/blob/main/galaga.png" width="250">
+  <br><img src = "https://github.com/bhui110/bhui110/blob/main/galaga.png" width="300">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
