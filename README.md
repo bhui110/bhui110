@@ -24,4 +24,6 @@
 <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+<img src="https://skillicons.dev/icons?i=r" alt="r" width="40" height="40"/> </a>
 </p>
